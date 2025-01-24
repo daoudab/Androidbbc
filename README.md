@@ -12,7 +12,7 @@ RSS Feed Parsing: Uses AsyncTask to fetch articles from: http://feeds.bbci.co.uk
 
 Open Links in Browser: View article links in the device’s web browser.
 
-Installation Clone the repo: git clone https://github.com/daoudab/Androidbbc.git Open in Android Studio and run on a device or test on a physical devices. Project Owner Douda Contributions welcome via pull requests.
+Installation Clone the repo: git clone https://github.com/daoudab/Androidbbc.git Open in Android Studio and run on a device or test on a physical devices. Project Owner Daoud Contributions welcome via pull requests.
 
 # BBC News Reader
 
