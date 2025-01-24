@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBC Easy Reads</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="favourite">Favourite</string>
+    <string name="exit">Exit</string>
+    <string name="favNews">Favourite Feed</string>
+    <string name="remove">Remove</string>
+    <string name="details">Details</string>
+    <string name="title">Title :</string>
+    <string name="description">Description :</string>
+    <string name="link">Link :</string>
+    <string name="pubDate">PubDate :</string>
+    <string name="news">BBC Feed</string>
+    <string name="home">Home</string>
+    <string name="help">Help</string>
+    <string name="favList">Favourite List</string>
+    <string name="note2">Click any title to view its detail.</string>
+    <string name="howTo">How to use this page</string>
+    <string name="ok">OK</string>
+    <string name="failed">Failed</string>
+    <string name="sent">Sent</string>
+    <string name="note3">To send your comment, input the information and then click "Submit"</string>
+    <string name="note4">Click "Favourite" to save this news to Favourite List.</string>
+    <string name="note5">Click "Remove" to remove the selected news from the Favourite List</string>
+    <string name="note7">Toggle to switch to dark/light mode. Select language from dropdown</string>
+
+    <string name="removed">Removed from Favourite List</string>
+    <string name="added">Added to Favourite List</string>
+    <string name="back">Go back</string>
+    <string name="Preferences">Preferences</string>
+
+    <string name="select_theme">Select Theme</string>
+    <string name="select_theme_description">Choose between light and dark mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_description">Toggle to enable or disable dark mode</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_language_description">Choose your preferred language</string>
+    <string name="language_spinner_description">Dropdown to select the language</string>
+
+</resources>

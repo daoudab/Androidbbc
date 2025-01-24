@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home icon -->
+    <item
+        android:id="@+id/homeIcon"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        android:iconTint="@color/white"
+        app:showAsAction="always"
+        android:orderInCategory="200" />
+
+    <!-- Search icon with SearchView -->
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <!-- Help icon -->
+    <item
+        android:id="@+id/helpIcon"
+        android:icon="@drawable/ic_help"
+        android:title="@string/help"
+        android:iconTint="@color/white"
+        app:showAsAction="always"
+        android:orderInCategory="300" />
+</menu>
